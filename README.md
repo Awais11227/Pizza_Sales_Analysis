@@ -1,13 +1,13 @@
-# 🍕 Pizza Sales Analysis  
+#  **Pizza Sales Analysis** 
 
 ![Project Overview](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/1.png)  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project analyzes **pizza store sales data** to uncover valuable insights about revenue, customer behavior, and product performance. The analysis helps management make data-driven decisions in sales, marketing, operations, and inventory planning.  
 
 ---
 
-## 🎯 Business Objectives  
+## Business Objectives  
 - Calculate **total revenue, total pizzas sold, and total orders**  
 - Identify **best-selling and least-selling pizzas**  
 - Analyze **sales by category and size**  
@@ -19,7 +19,7 @@ This project analyzes **pizza store sales data** to uncover valuable insights ab
 
 ---
 
-## 📂 Dataset  
+##  Dataset  
 **File:** `pizza_sales.csv`  
 
 **Key Fields:**  
@@ -33,7 +33,7 @@ This project analyzes **pizza store sales data** to uncover valuable insights ab
 
 ---
 
-## 📊 Analysis & Visualizations  
+##  Analysis & Visualizations  
 
 ### 🔹 Daily & Hourly Trends  
 ![Daily Trend](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/3.png)  
@@ -51,7 +51,7 @@ This project analyzes **pizza store sales data** to uncover valuable insights ab
 
 ---
 
-## ✅ Key Insights  
+##  Key Insights  
 - **Large (L) pizzas** drive the highest revenue.  
 - **Classic pizzas** are the most popular category, while **Veggie pizzas** sell less.  
 - Peak orders occur during **evenings and weekends**.  
@@ -60,7 +60,7 @@ This project analyzes **pizza store sales data** to uncover valuable insights ab
 
 ---
 
-## 🚀 Conclusion & Recommendations  
+##  Conclusion & Recommendations  
 - Focus promotions on **high-selling categories and sizes**.  
 - Reconsider or optimize **least-selling pizzas**.  
 - Use sales trends to **plan staffing and inventory**.  
@@ -68,7 +68,7 @@ This project analyzes **pizza store sales data** to uncover valuable insights ab
 
 ---
 
-## 📸 Sample Output  
+##  Sample Output  
 ![Dashboard Output](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/output2.png)  
 
 ---
