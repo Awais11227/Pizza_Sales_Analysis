@@ -1,8 +1,6 @@
-# Pizza_Sales_Analysis
+# 🍕 Pizza Sales Analysis  
 
-
-
-![Project Overview](images/images/1.png)  
+![Project Overview](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/1.png)  
 
 ## 📌 Project Overview  
 This project analyzes **pizza store sales data** to uncover valuable insights about revenue, customer behavior, and product performance. The analysis helps management make data-driven decisions in sales, marketing, operations, and inventory planning.  
@@ -38,18 +36,18 @@ This project analyzes **pizza store sales data** to uncover valuable insights ab
 ## 📊 Analysis & Visualizations  
 
 ### 🔹 Daily & Hourly Trends  
-![Daily Trend](images/images/3.png)  
-![Hourly Trend](images/images/4.png)  
+![Daily Trend](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/3.png)  
+![Hourly Trend](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/4.png)  
 
 ### 🔹 Monthly Trends  
-![Monthly Sales](images/images/5.png)  
+![Monthly Sales](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/5.png)  
 
 ### 🔹 Sales by Category & Size  
-![Sales by Category](images/images/6.png)  
-![Sales by Size](images/images/7.png)  
+![Sales by Category](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/6.png)  
+![Sales by Size](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/7.png)  
 
 ### 🔹 Best & Worst Performers  
-![Top & Bottom Pizzas](images/images/8.png)  
+![Top & Bottom Pizzas](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/8.png)  
 
 ---
 
@@ -71,7 +69,7 @@ This project analyzes **pizza store sales data** to uncover valuable insights ab
 ---
 
 ## 📸 Sample Output  
-![Dashboard Output](images/images/output2.png)  
+![Dashboard Output](https://raw.githubusercontent.com/Awais11227/Pizza_Sales_Analysis/main/Images/output2.png)  
 
 ---
 
