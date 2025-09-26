@@ -19,7 +19,7 @@ This project analyzes **pizza store sales data** to uncover valuable insights ab
 
 ---
 
-##  Dataset  
+##  Dataset.
 **File:** `pizza_sales.csv`  
 
 **Key Fields:**  
